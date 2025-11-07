@@ -1,0 +1,24 @@
+.main-heading{
+    color: rgb(250, 163, 2);
+    font-family: "Roboto";
+    font-size: 100px;
+    font-style: italic;
+    font-weight: bOld;
+    text-decoration: slateblue;
+
+}
+
+.paragraph{
+    color: white;
+    margin: top;
+    font-size: 70px;
+}
+
+.card{
+    background-image: url("https://wallpaperaccess.com/full/3921980.jpg");
+   background-size: cover;
+   background-position: center;
+   text-align-last: center;
+    height: 100vh;
+    width: 100vh;
+}
